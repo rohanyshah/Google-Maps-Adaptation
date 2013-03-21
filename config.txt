@@ -1,0 +1,9 @@
+//default json data
+defaultJSONData:
+{"navBarTitleText":"[itemNickname]", "singleLocationDefaultZoom":"15", "defaultMapType":"standard"}
+
+//description for control panel. Up to 250 characters. No HTML.
+shortDescription:
+Location maps are used to display a list of pins on a map. Tapping a pin can display driving directions or another screen.
+The list of locations can come from the project itself, a list you provide in the apps control panel or a data feed from a URL.
+
